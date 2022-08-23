@@ -9,3 +9,6 @@ streamlit.text('Masala')
 streamlit.text('Onion')
 streamlit.text('Ghee')
 streamlit.text('Curd')
+
+
+streamlit.header('Build Your Own Fruit Smoothie')
